@@ -1,1 +1,1 @@
-# Sistema-de-avalia-o-de-disciplinas-e-professores
+# Sistema-de-avaliação-de-disciplinas-e-professores
